@@ -2,9 +2,9 @@
 
 ##INGREDIENTES## 
 <ul>
-3 peitos de frango cortados em cubos
-1 dente de alho picado
-sal e pimenta a gosto
+3 peitos de frango cortados em cubos<br>
+1 dente de alho picado<br>
+sal e pimenta a gosto<br>
 1 cebola picada
 2 colheres (sopa) de maionese
 1 colher de manteiga
